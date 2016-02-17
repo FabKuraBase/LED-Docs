@@ -74,7 +74,7 @@ Node.jsのファイルを作成し、下記のコードを入力し保存。
 
 led_display.js
 
-```
+```js
 //
 // FaBo Sample
 //
